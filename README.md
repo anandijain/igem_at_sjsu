@@ -23,6 +23,7 @@ plan:
     * try to get a free experment 
 * collab with opentrons? otherwise build OTTO 
 * collab with biocurious? 
+* reach out to high schools? 
 
 good to know: 
 ```
